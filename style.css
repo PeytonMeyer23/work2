@@ -1,0 +1,41 @@
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+  }
+  body {
+    text-align: center;
+    color: #333;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #main {
+    background: #eee;
+  }
+
+  img{
+    background-color: white;
+    border: 100px solid white;
+    padding-left: 300px;
+    padding-right: 300px;
+  }
+  p2{
+    background-color: white;
+    border: 50px solid white;
+    padding-left: 388px;
+    padding-right: 388px;
+    
+  }
+
+  li
+  {
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: left;
+  }
+  em
+  {
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: left;
+  }
+  
